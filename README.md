@@ -2,15 +2,13 @@
 
 <p align="justify">
   I'm currently enhancing my skills in a variety of modern technologies and frameworks. 
-  I'm actively learning and working with <strong>.NET</strong>, <strong>C#</strong>, <strong>C++</strong>, and <strong>Blazor</strong> 
+  I'm actively learning and working with <strong>.NET</strong>, <strong>C#</strong>, and <strong>Blazor</strong> 
   to build robust, scalable applications. I'm also strengthening my front-end foundation 
   with <strong>HTML5</strong> and <strong>CSS3</strong>, and improving my understanding of 
   version control using <strong>Git</strong>. Additionally, I'm diving deeper into backend 
   development and data management with <strong>Microsoft SQL Server</strong>. 
   This journey allows me to grow as a full-stack developer while following best practices 
-  like Clean Architecture and Object-Oriented Programming (OOP). You can follow my journey on 
-  <a href="[https://github.anzdejesus21com/](https://github.com/dhanerobinos)" target="_blank">GitHub</a> and 
- 
+  like Clean Architecture and Object-Oriented Programming (OOP). 
 </p>
 
 
